@@ -1,3 +1,5 @@
+// Caso você queira executar esse código atraves do codespaces, basta executar no terminal o comando "node [nome_do_seu_arquivo.js]"
+
 class Personagem {
     constructor(nome, vida, forca) {
         this.nome = nome;
